@@ -1,0 +1,27 @@
+form {
+  background-color: #b1ddea;
+  font-family: "Dosis", sans-serif;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  border-radius: 5px;
+  padding: 10px;
+}
+input {
+  width: 75%;
+  border-radius: 5px;
+}
+button {
+  border-radius: 5px;
+  font-family: "Dosis", sans-serif;
+  font-size: 12px;
+  margin-top: 5px;
+  width: 75%;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
